@@ -1,0 +1,6 @@
+spleeter
+flask
+typer
+click==7.1.2
+
+
