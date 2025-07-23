@@ -3,5 +3,6 @@ flask
 boto3
 typer
 click==7.1.2
+python-dotenv
 
 
